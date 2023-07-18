@@ -1,0 +1,80 @@
+.resume-cont{
+	display: flex;
+}
+
+.names{
+	display: flex;
+}
+
+.left{
+	background-color: rgb(59, 164, 217);
+	width: 15vw;
+    height: 100vh;
+}
+
+.right{
+	width: 35vw;
+    height: 100vh;
+}
+
+.profileImg{
+	height: 11rem;
+	width: 11rem;
+	background-color: white;
+	border-radius: 50%;
+    margin-left: 2rem;
+	border: 10px solid rgb(71, 188, 198);
+}
+
+.imgg{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+.heading{
+	background-color: darkslategray;
+	padding: 0.8rem;
+	color: white;
+	text-align: left;
+}
+
+.p1{
+	margin: 0.7rem;
+	font-size: 0.7rem;
+}
+
+.skill{
+	text-align: right;
+	margin: 1rem;
+	color: white;
+}
+
+.nameDiv{
+	padding: 4rem;
+	text-align: center;
+}
+
+.box2{
+	margin: 2rem;
+}
+
+.p2{
+	font-size: 0.7rem;
+	margin-top: 0.3rem;
+}
+
+h2{
+	font-size: 1rem;
+	margin-bottom: 1.5rem;
+}
+
+.p3{
+	font-size: 0.7rem;
+	margin-top: 1rem;
+}
+
+.p3 span{
+	color: orange;
+    padding-left: 1rem;
+}

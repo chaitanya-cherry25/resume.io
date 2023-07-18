@@ -1,0 +1,21 @@
+.parent-container{
+    display: flex;
+    height: max-content;
+}
+
+.left-preview{
+    border: 2px solid black;
+    width: 35%;
+    margin-top: 2rem;
+    background-color: rgb(25, 54, 133);
+    padding-left: 0.5rem;
+
+}
+.right-preview{
+    width: 65%;
+    margin-top: 2rem;
+    border: 2px solid black;
+    padding-left: 0.5rem;
+
+
+}
